@@ -25,3 +25,4 @@ Data Analytics Bootcamp - Challenge Module 3:
 
 * For this challenge module, I attended a tutoring session to help debug the code.
 * I also had ChatGPT review snippets of my code and provide answers on questions I had.
+* Additionally, reviewing the activities during this week also helped with the coding process.
