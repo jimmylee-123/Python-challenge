@@ -19,7 +19,9 @@ Data Analytics Bootcamp - Challenge Module 3:
 * The total number of votes each candidate won
 * The winner of the election based on popular vote
 
+**Next Steps**: Once the Python code runs and outputs the correct information to the terminal screen for each challenge, you are to output the restults to a .txt file in an "analysis" folder.
+
 ## Acknowledgments
 
-* [Reserved for notes]
-  * [Reserved for notes]
+* For this challenge module, I attended a tutoring session to help debug the code.
+* I also had ChatGPT review snippets of my code and provide answers on questions I had.
